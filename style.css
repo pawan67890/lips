@@ -1,0 +1,247 @@
+    .outer
+    {
+        width: 1400px;
+        
+        background-color: rgb(188, 193, 218);
+    }
+
+    .header
+    {    width: 1400px;
+        height: 150;
+        background-color: rgb(226, 142, 222);
+        
+    }
+    .hleft
+    {
+        width: 100px;
+        height: 100px;
+        background-color: rgb(244, 247, 248);
+        float:left;
+        margin-top:20px;
+        margin-left:20px;
+        border-radius: 50px;
+        
+    }
+    .hright
+    {
+        width: 900px;
+        height: 100px;
+        background-color: rgb(240, 242, 245);
+        float:right;
+        margin:20px 20px 0px 0px ;
+        border-radius:20px ;
+        font-size: 35px;
+        text-align: center;
+        padding:20px 0px 0px 20px;
+        box-sizing: border-box;
+
+    }
+    .hright:hover
+    {
+        background-color: cadetblue;
+        transition-timing-function: 1s;
+    }
+    .menubar
+    {
+        width: 1400px;
+        height: 100px;
+        background-color: rgb(16, 156, 98);
+    }
+    .menus
+    {
+        width: 200px;
+        height: 50px;
+        background-color: #fff;
+        float: left;
+        margin-top: 20px;
+        margin-left: 27px;
+        border-radius: 20px;
+        box-sizing: border-box;
+        text-align: center;
+        padding: 10px;
+        font-size: 20px;
+    }
+
+    .menus:hover
+    {
+        background-color: rgb(177, 115, 92);
+        transition: 1s;
+    }
+     
+
+    .main
+
+    { 
+        width: 1400px;
+       height: 500px;
+        background-color: rgb(161, 34, 11);
+        clear:both;
+    }
+     
+    .mleft
+    {
+        width: 300px;
+       height: 500px;
+        background-color: cyan;
+        float: left;
+    }
+    
+    .lmenus:hover
+    {
+        background-color: rgb(176, 181, 189);
+        transition-timing-function: 1s;
+        
+    }
+    
+        
+    
+
+    .mright
+    {
+        width:1100px;
+        min-height: 500px;
+        background-color: blanchedalmond;
+        float: left;
+        text-align: center;
+        font size: 80px;
+    }
+    .lmenus
+    {   width: 200px;
+        height: 50px;
+        background-color: #fff;
+        
+        margin-top: 20px;
+        margin-left: 27px;
+        border-radius: 20px;
+        box-sizing: border-box;
+        text-align: center;
+        padding: 10px;
+        font-size: 20px; 
+        
+    }
+
+
+    .footer
+    {
+        width: 1400px;
+        height: 200px;
+        background-color: rgb(220, 228, 235);
+        clear: both;
+    }
+     
+    .fmenus
+    {
+
+        height: 22px;
+        font-size:22px;
+        margin-top:50px;
+        border-right: 1px solid black;
+         float:left;
+         padding:0 15px;
+
+    }
+     
+    .ml
+    {
+        margin-left: 765px;
+    }
+
+    .mg 
+    {
+        width: 100px;
+        height: 100px;
+        background-color: cadetblue;
+        float:left;
+        margin: 50px 20px 50px 20px;
+    }
+    .gallery{
+        margin:40px 40px;
+        width: 280px;
+        height: 200px;
+        float: left;
+        background-color: red;
+
+    }
+    
+    .curow
+    {
+        width: 800px;
+        height: 50px;
+        background-color: cadetblue;
+         border-radius: 10PX;
+        margin: 20px 20px 20px 100px;
+    }
+
+    .culeft
+    {
+        width: 200px;
+        height: 50px;
+        float:left; 
+        background-color: rgb(146, 102, 45);
+        padding:5px 0px 10px 5px;
+        box-sizing:border-box; 
+        border-radius: 20px;
+        font-size: larger;
+        font-style:unset;
+    
+        
+    }
+    .curight
+    {
+        float: left ;
+        width: 598px;
+        height: 50px;
+        border-left: 1px solid white;
+        background-color: rgb(192, 123, 32);
+        font-size: 25px;
+        padding:5px 0px 10px 5px;
+        box-sizing:border-box;
+        border-radius: 20px;
+        
+    }
+
+    .COURSES{
+        margin:40px 40px;
+        width:  250px;
+        height: 250px;
+        float: left;
+        background-color: rgb(187, 129, 206);
+        border-radius: 20PX;
+        color: beige;
+        font-size: 20PX;
+        text-align: center;
+
+    }
+     
+    .pn
+    {
+        padding: 0px 0px 0px 0px;
+        
+    }
+     .tarea
+     {
+        width: 550px;
+        height: 100px;
+        font-size: larger;
+        margin-top: 20px;
+
+     }
+
+     .ht 
+     {
+        height: 300px;
+     }
+
+     .btn 
+     {
+       width: 50px;
+       height: 30px;
+       background-color: blue;
+       color: blanchedalmond;
+       text-align: center;
+
+     }
+     .mg
+     {
+        margin-top: 0px;
+     }
